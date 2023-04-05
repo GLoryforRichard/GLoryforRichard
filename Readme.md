@@ -11,6 +11,8 @@
 [![](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)  
+[![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://html.spec.whatwg.org/)  
+
 
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)](https://www.linuxfoundation.org/)
