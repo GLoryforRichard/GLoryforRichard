@@ -18,7 +18,7 @@
 
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20?style=flat-square&logo=vim&logoColor=ffffff)]
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20?style=flat-square&logo=visual-studio&logoColor=ffffff)]
 
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/d1ad2525fd7f598feab812ce5e13a736" target="_blank">📊 Weekly development breakdown</a>
