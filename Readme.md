@@ -1,7 +1,6 @@
 ### Hi there 👋
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GLoryforRichard&show_icons=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLoryforRichard&theme=blue-green" />
 </a>  
 
 ![:name](https://count.getloli.com/get/@:GLoryforRichard)  
