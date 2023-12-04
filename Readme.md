@@ -3,7 +3,7 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GLoryforRicahrd?theme=asoul"></a>
 </p>
 
-🌟 **My Skills & Tools**  
+🌟 **Platform & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/zh-CN/)
 [![](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
