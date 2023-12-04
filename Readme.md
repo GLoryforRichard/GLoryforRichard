@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p>
-  ![:name](https://count.getloli.com/get/@:GLoryforRichard?theme=asoul)  
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:GLoryforRicahrd?theme=asoul"></a>
 </p>
 
-
+![:name](https://count.getloli.com/get/@:GLoryforRichard)  
 
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
