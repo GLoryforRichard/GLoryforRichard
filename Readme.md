@@ -1,9 +1,9 @@
 ### Hi there 👋
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=GLoryforRichard&show_icons=true" />
-</a>  
+<p>
+  ![:name](https://count.getloli.com/get/@:GLoryforRichard?theme=asoul)  
+</p>
 
-![:name](https://count.getloli.com/get/@:GLoryforRichard)  
+
 
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
