@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)  
 
 
-
+![Ubuntu Package Version (for series)](https://img.shields.io/ubuntu/v/:packageName/:series)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)](https://www.linuxfoundation.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
