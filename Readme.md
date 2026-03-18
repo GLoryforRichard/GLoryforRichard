@@ -38,6 +38,6 @@
 [![](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://code.visualstudio.com/)
 
 **Product**
-- [JournalPrompts](https://journalprompts.org) - Free journal prompt finder matched to your mood
+- [Journal Prompts](https://journalprompts.org) - Free journal prompt finder matched to your mood
 
 
